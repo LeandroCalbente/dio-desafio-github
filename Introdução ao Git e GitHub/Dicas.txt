@@ -1,0 +1,13 @@
+Para começar, é necessário ter o Git instalado na máquina, segue link: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+Segue abaixo alguns comandos mais utilizados no Git:
+Git Init: Para inicializar um novo subdiretório .git
+Git Push: Comando para empurrar o git para o GitHub
+Git Commit -m "": Comando para capturar o estado de um projeto no momento em questão.
+ls: listar os itens dentro da pasta
+CTRL + L: Limpar o conteúdo na tela
+Git clone: Clona um repositório já existente no GitHub
+cd ..: Volta uma pasta.
+cd "/c/workspace/: Caminho para chegar em uma determinada pasta, no caso, workspace
+Git Status: mostra o estado atual da pasta em questão.
+Git Add: adiciona arquivos
